@@ -1,0 +1,1189 @@
+{
+  "default": {
+    "firstScene": "scene-1773761777703-atkroe7vs",
+    "sceneFadeDuration": 800,
+    "autoLoad": true
+  },
+  "scenes": {
+    "scene-1773761777703-atkroe7vs": {
+      "title": "Front Door",
+      "panorama": "images/scene-1773761777703-atkroe7vs.jpg",
+      "thumbnail": "thumbnails/scene-1773761777703-atkroe7vs.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -25.792269784329367,
+          "yaw": -93.09961860544706,
+          "type": "scene",
+          "text": "Go to Front Room",
+          "sceneId": "scene-1773761778432-3cjo2orwk",
+          "targetPitch": -3.070919042204433,
+          "targetYaw": -89.02214960540039
+        },
+        {
+          "pitch": -31.337755067334115,
+          "yaw": 6.434332290357551,
+          "type": "scene",
+          "text": "Go to Stairs",
+          "sceneId": "scene-1773761779561-hedqply1d",
+          "targetPitch": -11.016616075402606,
+          "targetYaw": 3.040999970099733
+        },
+        {
+          "pitch": -16.4681967155568,
+          "yaw": 3.7291380034340023,
+          "type": "scene",
+          "text": "Go to Living Room Entry",
+          "sceneId": "scene-1773761780397-8ke505pmq",
+          "targetPitch": -1.857307731837663,
+          "targetYaw": 1.849446155679857
+        },
+        {
+          "pitch": -18.389485435007835,
+          "yaw": 22.657722015090883,
+          "type": "scene",
+          "text": "Go to Master Bedroom Entry",
+          "sceneId": "scene-1773761781087-1vkbhtpcr",
+          "targetPitch": -2.9660353846793424,
+          "targetYaw": 16.78573546596317
+        }
+      ]
+    },
+    "scene-1773761778432-3cjo2orwk": {
+      "title": "Front Room",
+      "panorama": "images/scene-1773761778432-3cjo2orwk.jpg",
+      "thumbnail": "thumbnails/scene-1773761778432-3cjo2orwk.jpg",
+      "pitch": -3.070919042204433,
+      "yaw": -89.02214960540039,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -24.25749310868311,
+          "yaw": 86.25025026156496,
+          "type": "scene",
+          "text": "Go to Front Door",
+          "sceneId": "scene-1773761777703-atkroe7vs",
+          "targetPitch": -2.6839804607292814,
+          "targetYaw": 85.7018270564522
+        }
+      ]
+    },
+    "scene-1773761779561-hedqply1d": {
+      "title": "Stairs",
+      "panorama": "images/scene-1773761779561-hedqply1d.jpg",
+      "thumbnail": "thumbnails/scene-1773761779561-hedqply1d.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -34.16656456003608,
+          "yaw": -165.99331905540137,
+          "type": "scene",
+          "text": "Go to Front Door",
+          "sceneId": "scene-1773761777703-atkroe7vs",
+          "targetPitch": -11.60257615288998,
+          "targetYaw": -168.88078148366674
+        },
+        {
+          "pitch": -19.12534368283796,
+          "yaw": -129.8590788180196,
+          "type": "scene",
+          "text": "Go to Front Room",
+          "sceneId": "scene-1773761778432-3cjo2orwk",
+          "targetPitch": -3.4513349853258237,
+          "targetYaw": -137.62508922121037
+        },
+        {
+          "pitch": 10.510383597469533,
+          "yaw": -79.90139752972416,
+          "type": "scene",
+          "text": "Go to Top of Stairs",
+          "sceneId": "scene-1773761797401-qvfdyzxv4",
+          "targetPitch": 8.91314733033896,
+          "targetYaw": -81.58590033450571
+        },
+        {
+          "pitch": -31.75605739174954,
+          "yaw": 2.2252841781026014,
+          "type": "scene",
+          "text": "Go to Living Room Entry",
+          "sceneId": "scene-1773761780397-8ke505pmq",
+          "targetPitch": -5.817780463785461,
+          "targetYaw": 6.219675169478819
+        },
+        {
+          "pitch": -32.33861544512843,
+          "yaw": 51.21578249230604,
+          "type": "scene",
+          "text": "Go to Master Bedroom Entry",
+          "sceneId": "scene-1773761781087-1vkbhtpcr",
+          "targetPitch": -11.262612457400763,
+          "targetYaw": 52.03203646491727
+        },
+        {
+          "pitch": -14.29859662920274,
+          "yaw": 2.772420769920748,
+          "type": "scene",
+          "text": "Go to Living Room",
+          "sceneId": "scene-1773761783382-mho2dfttx",
+          "targetPitch": -0.6383719436996649,
+          "targetYaw": 8.320783571370612
+        }
+      ]
+    },
+    "scene-1773761780397-8ke505pmq": {
+      "title": "Living Room Entry",
+      "panorama": "images/scene-1773761780397-8ke505pmq.jpg",
+      "thumbnail": "thumbnails/scene-1773761780397-8ke505pmq.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -19.294527279826298,
+          "yaw": -173.53289558126858,
+          "type": "scene",
+          "text": "Go to Front Door",
+          "sceneId": "scene-1773761777703-atkroe7vs",
+          "targetPitch": -1.929959206855319,
+          "targetYaw": -175.26164733283332
+        },
+        {
+          "pitch": 6.457739449964726,
+          "yaw": -114.31331618359133,
+          "type": "scene",
+          "text": "Go to Top of Stairs",
+          "sceneId": "scene-1773761797401-qvfdyzxv4",
+          "targetPitch": 14.039087799735249,
+          "targetYaw": -114.5925813998848
+        },
+        {
+          "pitch": -42.39302920773991,
+          "yaw": -164.97019361376934,
+          "type": "scene",
+          "text": "Go to Stairs",
+          "sceneId": "scene-1773761779561-hedqply1d",
+          "targetPitch": -19.367594903463598,
+          "targetYaw": -167.59200432680342
+        },
+        {
+          "pitch": -31.711950608719885,
+          "yaw": 91.74987501936374,
+          "type": "scene",
+          "text": "Go to Master Bedroom Entry",
+          "sceneId": "scene-1773761781087-1vkbhtpcr",
+          "targetPitch": -7.440448126737531,
+          "targetYaw": 88.67264788697457
+        },
+        {
+          "pitch": -20.353878485200816,
+          "yaw": -10.001958752529932,
+          "type": "scene",
+          "text": "Go to Living Room",
+          "sceneId": "scene-1773761783382-mho2dfttx",
+          "targetPitch": -1.6794607666274644,
+          "targetYaw": -7.083021194247635
+        },
+        {
+          "pitch": -14.971923993124118,
+          "yaw": -84.19728769199351,
+          "type": "scene",
+          "text": "Go to Island",
+          "sceneId": "scene-1773761783989-rontcj3z0",
+          "targetPitch": 1.6125938005995022,
+          "targetYaw": -87.45179848266844
+        }
+      ]
+    },
+    "scene-1773761781087-1vkbhtpcr": {
+      "title": "Master Bedroom Entry",
+      "panorama": "images/scene-1773761781087-1vkbhtpcr.jpg",
+      "thumbnail": "thumbnails/scene-1773761781087-1vkbhtpcr.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": 8.18565870452478,
+          "yaw": -106.25890097858635,
+          "type": "scene",
+          "text": "Go to Top of Stairs",
+          "sceneId": "scene-1773761797401-qvfdyzxv4",
+          "targetPitch": 8.680401679833983,
+          "targetYaw": -111.60787690998654
+        },
+        {
+          "pitch": -29.530387525039554,
+          "yaw": -99.01686592574838,
+          "type": "scene",
+          "text": "Go to Living Room Entry",
+          "sceneId": "scene-1773761780397-8ke505pmq",
+          "targetPitch": -12.712890049835858,
+          "targetYaw": -97.10442022324531
+        },
+        {
+          "pitch": -22.742538776822183,
+          "yaw": -120.7662025402402,
+          "type": "scene",
+          "text": "Go to Stairs",
+          "sceneId": "scene-1773761779561-hedqply1d",
+          "targetPitch": -4.810529685361001,
+          "targetYaw": -136.5848361737295
+        },
+        {
+          "pitch": -29.571185866621374,
+          "yaw": 24.534504942176838,
+          "type": "scene",
+          "text": "Go to Master Bedroom",
+          "sceneId": "scene-1773761781683-7vw41xm7e",
+          "targetPitch": -15.11482298774088,
+          "targetYaw": 13.496077546206948
+        }
+      ]
+    },
+    "scene-1773761781683-7vw41xm7e": {
+      "title": "Master Bedroom",
+      "panorama": "images/scene-1773761781683-7vw41xm7e.jpg",
+      "thumbnail": "thumbnails/scene-1773761781683-7vw41xm7e.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -26.42603661581012,
+          "yaw": -137.10822068417116,
+          "type": "scene",
+          "text": "Go to Master Bedroom Entry",
+          "sceneId": "scene-1773761781087-1vkbhtpcr",
+          "targetPitch": -4.2058049398551365,
+          "targetYaw": -140.0686635407519
+        },
+        {
+          "pitch": -25.464048690633415,
+          "yaw": 161.56440998577696,
+          "type": "scene",
+          "text": "Go to Master Bathroom",
+          "sceneId": "scene-1773763686579-pxzr7qm20",
+          "targetPitch": -2.243914069259139,
+          "targetYaw": 156.8865225469741
+        }
+      ]
+    },
+    "scene-1773761782862-cvh1v1985": {
+      "title": "Master Bathroom 2",
+      "panorama": "images/scene-1773761782862-cvh1v1985.jpg",
+      "thumbnail": "thumbnails/scene-1773761782862-cvh1v1985.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -27.196791669787807,
+          "yaw": 16.5284335716358,
+          "type": "scene",
+          "text": "Go to Master Bathroom",
+          "sceneId": "scene-1773763686579-pxzr7qm20",
+          "targetPitch": -4.626886101563919,
+          "targetYaw": 13.461165361816029
+        },
+        {
+          "pitch": -15.591630782109007,
+          "yaw": 12.222571201245307,
+          "type": "scene",
+          "text": "Go to Master Bedroom",
+          "sceneId": "scene-1773761781683-7vw41xm7e",
+          "targetPitch": -2.244017216273057,
+          "targetYaw": 10.089097722481938
+        }
+      ]
+    },
+    "scene-1773761783382-mho2dfttx": {
+      "title": "Living Room",
+      "panorama": "images/scene-1773761783382-mho2dfttx.jpg",
+      "thumbnail": "thumbnails/scene-1773761783382-mho2dfttx.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -27.749519368909848,
+          "yaw": -163.2544710860015,
+          "type": "scene",
+          "text": "Go to Living Room Entry",
+          "sceneId": "scene-1773761780397-8ke505pmq",
+          "targetPitch": -3.0856033570503025,
+          "targetYaw": -164.1717578032484
+        },
+        {
+          "pitch": -16.80393794691205,
+          "yaw": -161.90918181867153,
+          "type": "scene",
+          "text": "Go to Stairs",
+          "sceneId": "scene-1773761779561-hedqply1d",
+          "targetPitch": 2.5900290740697565,
+          "targetYaw": -159.18516582703995
+        },
+        {
+          "pitch": -8.889652176804441,
+          "yaw": -157.16992784110457,
+          "type": "scene",
+          "text": "Go to Front Door",
+          "sceneId": "scene-1773761777703-atkroe7vs",
+          "targetPitch": 4.6975399075012625,
+          "targetYaw": -155.6819975108544
+        },
+        {
+          "pitch": -11.141223720900765,
+          "yaw": -95.4844608264015,
+          "type": "scene",
+          "text": "Go to Island",
+          "sceneId": "scene-1773761783989-rontcj3z0",
+          "targetPitch": 0.6332707753438038,
+          "targetYaw": -88.67058550484137
+        },
+        {
+          "pitch": -10.442044777296847,
+          "yaw": -35.78406735976069,
+          "type": "scene",
+          "text": "Go to Center",
+          "sceneId": "scene-1773761786299-zh912tx27",
+          "targetPitch": -1.773833261073848,
+          "targetYaw": -44.62110570520247
+        },
+        {
+          "pitch": 3.2516170355383935,
+          "yaw": -129.27498549820905,
+          "type": "scene",
+          "text": "Go to Top of Stairs",
+          "sceneId": "scene-1773761797401-qvfdyzxv4",
+          "targetPitch": 5.513415898431784,
+          "targetYaw": -129.14238694258194
+        },
+        {
+          "pitch": -18.326852775223244,
+          "yaw": 177.79777815588545,
+          "type": "scene",
+          "text": "Go to Master Bedroom Entry",
+          "sceneId": "scene-1773761781087-1vkbhtpcr",
+          "targetPitch": 0.512198000489732,
+          "targetYaw": 173.5787158924977
+        }
+      ]
+    },
+    "scene-1773761783989-rontcj3z0": {
+      "title": "Island",
+      "panorama": "images/scene-1773761783989-rontcj3z0.jpg",
+      "thumbnail": "thumbnails/scene-1773761783989-rontcj3z0.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -14.131501374451512,
+          "yaw": 138.8360963728625,
+          "type": "scene",
+          "text": "Go to Living Room",
+          "sceneId": "scene-1773761783382-mho2dfttx",
+          "targetPitch": -2.445947864418457,
+          "targetYaw": 135.8069154229023
+        },
+        {
+          "pitch": -16.471766089350105,
+          "yaw": 85.11412111677663,
+          "type": "scene",
+          "text": "Go to Center",
+          "sceneId": "scene-1773761786299-zh912tx27",
+          "targetPitch": -2.4642756646354753,
+          "targetYaw": 79.90907829774517
+        },
+        {
+          "pitch": -10.600859219421414,
+          "yaw": 178.8303622200011,
+          "type": "scene",
+          "text": "Go to Master Bedroom Entry",
+          "sceneId": "scene-1773761781087-1vkbhtpcr",
+          "targetPitch": 0.4499152329125593,
+          "targetYaw": 176.23549424868395
+        },
+        {
+          "pitch": -18.503305438294355,
+          "yaw": -179.80380853836638,
+          "type": "scene",
+          "text": "Go to Living Room Entry",
+          "sceneId": "scene-1773761780397-8ke505pmq",
+          "targetPitch": 0.8248232954742776,
+          "targetYaw": 173.59098384029573
+        },
+        {
+          "pitch": -24.610679478780597,
+          "yaw": -1.0693197119124276,
+          "type": "scene",
+          "text": "Go to Kitchen",
+          "sceneId": "scene-1773761784542-3o1lebymd",
+          "targetPitch": -0.14811057608471323,
+          "targetYaw": -0.7937452400059328
+        },
+        {
+          "pitch": -14.780080533557845,
+          "yaw": -16.23497804699728,
+          "type": "scene",
+          "text": "Go to Garage Entry",
+          "sceneId": "scene-1773761788637-pdmgm765t",
+          "targetPitch": 0.7638584586772246,
+          "targetYaw": -16.45682846510192
+        }
+      ]
+    },
+    "scene-1773761784542-3o1lebymd": {
+      "title": "Kitchen",
+      "panorama": "images/scene-1773761784542-3o1lebymd.jpg",
+      "thumbnail": "thumbnails/scene-1773761784542-3o1lebymd.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -26.30623598062798,
+          "yaw": 93.46135517328146,
+          "type": "scene",
+          "text": "Go to Island",
+          "sceneId": "scene-1773761783989-rontcj3z0",
+          "targetPitch": -5.326863373754803,
+          "targetYaw": 86.08420556544695
+        },
+        {
+          "pitch": -12.101839753161741,
+          "yaw": 91.69896973275729,
+          "type": "scene",
+          "text": "Go to Living Room Entry",
+          "sceneId": "scene-1773761780397-8ke505pmq",
+          "targetPitch": -0.7222888796958338,
+          "targetYaw": 87.47621779209624
+        },
+        {
+          "pitch": -28.8891195042215,
+          "yaw": -115.91770831491421,
+          "type": "scene",
+          "text": "Go to Garage Entry",
+          "sceneId": "scene-1773761788637-pdmgm765t",
+          "targetPitch": -8.262094214585659,
+          "targetYaw": -120.35812552844152
+        },
+        {
+          "pitch": -19.021411027216427,
+          "yaw": -4.069854556435673,
+          "type": "scene",
+          "text": "Go to Kitchen 2",
+          "sceneId": "scene-1773761785129-tfl8q9m40",
+          "targetPitch": -2.8658426536075945,
+          "targetYaw": -0.8178479000296193
+        },
+        {
+          "pitch": -12.657034937741885,
+          "yaw": -0.03675289865717257,
+          "type": "scene",
+          "text": "Go to Dining Table",
+          "sceneId": "scene-1773761785711-cnaf13fh3",
+          "targetPitch": -1.7189102052280656,
+          "targetYaw": 0.3902829121523155
+        }
+      ]
+    },
+    "scene-1773761785129-tfl8q9m40": {
+      "title": "Kitchen 2",
+      "panorama": "images/scene-1773761785129-tfl8q9m40.jpg",
+      "thumbnail": "thumbnails/scene-1773761785129-tfl8q9m40.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -28.006008204826188,
+          "yaw": 0.545554982979624,
+          "type": "scene",
+          "text": "Go to Dining Table",
+          "sceneId": "scene-1773761785711-cnaf13fh3",
+          "targetPitch": -8.01694031408811,
+          "targetYaw": 13.302487364695935
+        },
+        {
+          "pitch": -24.39450156792984,
+          "yaw": 178.40742163706742,
+          "type": "scene",
+          "text": "Go to Kitchen",
+          "sceneId": "scene-1773761784542-3o1lebymd",
+          "targetPitch": -5.36174241439665,
+          "targetYaw": 175.3105392882179
+        }
+      ]
+    },
+    "scene-1773761785711-cnaf13fh3": {
+      "title": "Dining Table",
+      "panorama": "images/scene-1773761785711-cnaf13fh3.jpg",
+      "thumbnail": "thumbnails/scene-1773761785711-cnaf13fh3.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -26.63332361773908,
+          "yaw": 118.43347753403293,
+          "type": "scene",
+          "text": "Go to Center",
+          "sceneId": "scene-1773761786299-zh912tx27",
+          "targetPitch": -5.376228193015402,
+          "targetYaw": 120.38570050514181
+        },
+        {
+          "pitch": -30.83412651624346,
+          "yaw": -169.65475911758568,
+          "type": "scene",
+          "text": "Go to Kitchen 2",
+          "sceneId": "scene-1773761785129-tfl8q9m40",
+          "targetPitch": -9.708226031225097,
+          "targetYaw": -170.68431612930965
+        },
+        {
+          "pitch": -13.872443673314818,
+          "yaw": -177.01646926705803,
+          "type": "scene",
+          "text": "Go to Kitchen",
+          "sceneId": "scene-1773761784542-3o1lebymd",
+          "targetPitch": 1.4099884340895574,
+          "targetYaw": 179.55672745978552
+        },
+        {
+          "pitch": -26.037437088593897,
+          "yaw": -78.28011226476774,
+          "type": "scene",
+          "text": "Go to Office",
+          "sceneId": "scene-1773761786876-d4709lca7",
+          "targetPitch": -3.3298529803328734,
+          "targetYaw": -83.90922199580484
+        }
+      ]
+    },
+    "scene-1773761786299-zh912tx27": {
+      "title": "Center",
+      "panorama": "images/scene-1773761786299-zh912tx27.jpg",
+      "thumbnail": "thumbnails/scene-1773761786299-zh912tx27.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -24.650801115471978,
+          "yaw": -49.511824174687604,
+          "type": "scene",
+          "text": "Go to Dining Table",
+          "sceneId": "scene-1773761785711-cnaf13fh3",
+          "targetPitch": -4.0332293617899,
+          "targetYaw": -47.98534458627779
+        },
+        {
+          "pitch": -13.380819256826184,
+          "yaw": -58.73100441589473,
+          "type": "scene",
+          "text": "Go to Office",
+          "sceneId": "scene-1773761786876-d4709lca7",
+          "targetPitch": 0.3272719780312823,
+          "targetYaw": -61.24032985869934
+        },
+        {
+          "pitch": -22.74779688747428,
+          "yaw": -86.18808129956992,
+          "type": "scene",
+          "text": "Go to Kitchen 2",
+          "sceneId": "scene-1773761785129-tfl8q9m40",
+          "targetPitch": -1.3494292906456282,
+          "targetYaw": -92.32761652918288
+        },
+        {
+          "pitch": -17.421270902064162,
+          "yaw": -172.4377881771074,
+          "type": "scene",
+          "text": "Go to Island",
+          "sceneId": "scene-1773761783989-rontcj3z0",
+          "targetPitch": -0.5368910118573069,
+          "targetYaw": -178.3479542643771
+        },
+        {
+          "pitch": -18.401989963091324,
+          "yaw": 108.7241373705638,
+          "type": "scene",
+          "text": "Go to Living Room",
+          "sceneId": "scene-1773761783382-mho2dfttx",
+          "targetPitch": -3.698629523122373,
+          "targetYaw": 100.74339548739522
+        },
+        {
+          "pitch": -11.875578167152096,
+          "yaw": 137.4404744502001,
+          "type": "scene",
+          "text": "Go to Living Room Entry",
+          "sceneId": "scene-1773761780397-8ke505pmq",
+          "targetPitch": -1.187115394267817,
+          "targetYaw": 136.2534699410952
+        }
+      ]
+    },
+    "scene-1773761786876-d4709lca7": {
+      "title": "Office",
+      "panorama": "images/scene-1773761786876-d4709lca7.jpg",
+      "thumbnail": "thumbnails/scene-1773761786876-d4709lca7.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -27.202322085706985,
+          "yaw": 98.24541909320823,
+          "type": "scene",
+          "text": "Go to Dining Table",
+          "sceneId": "scene-1773761785711-cnaf13fh3",
+          "targetPitch": -5.8259867532810325,
+          "targetYaw": 95.88342299907322
+        },
+        {
+          "pitch": -14.776710263894747,
+          "yaw": -179.83277850889752,
+          "type": "scene",
+          "text": "Go to Guest Bathroom",
+          "sceneId": "scene-1773761788091-kkv2vsgt8",
+          "targetPitch": -3.793690397228825,
+          "targetYaw": 172.04994824437995
+        }
+      ]
+    },
+    "scene-1773761788091-kkv2vsgt8": {
+      "title": "Guest Bathroom",
+      "panorama": "images/scene-1773761788091-kkv2vsgt8.jpg",
+      "thumbnail": "thumbnails/scene-1773761788091-kkv2vsgt8.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -31.549589220568002,
+          "yaw": -94.93798331465803,
+          "type": "scene",
+          "text": "Go to Garage Entry",
+          "sceneId": "scene-1773761788637-pdmgm765t",
+          "targetPitch": -6.641073435951945,
+          "targetYaw": -98.51283750320476
+        },
+        {
+          "pitch": -18.234942666636353,
+          "yaw": 82.19260274609697,
+          "type": "scene",
+          "text": "Go to Office",
+          "sceneId": "scene-1773761786876-d4709lca7",
+          "targetPitch": -1.4571945082157338,
+          "targetYaw": 82.37342930886848
+        }
+      ]
+    },
+    "scene-1773761788637-pdmgm765t": {
+      "title": "Garage Entry",
+      "panorama": "images/scene-1773761788637-pdmgm765t.jpg",
+      "thumbnail": "thumbnails/scene-1773761788637-pdmgm765t.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -35.117640389775325,
+          "yaw": 93.77408538865456,
+          "type": "scene",
+          "text": "Go to Guest Bathroom",
+          "sceneId": "scene-1773761788091-kkv2vsgt8",
+          "targetPitch": -13.24102819296257,
+          "targetYaw": 95.6592904079726
+        },
+        {
+          "pitch": -11.856401037872425,
+          "yaw": 94.1923427620481,
+          "type": "scene",
+          "text": "Go to Office",
+          "sceneId": "scene-1773761786876-d4709lca7",
+          "targetPitch": 0.8839264446457342,
+          "targetYaw": 96.07109800120753
+        },
+        {
+          "pitch": -16.251278590768024,
+          "yaw": -177.24262925033955,
+          "type": "scene",
+          "text": "Go to Island",
+          "sceneId": "scene-1773761783989-rontcj3z0",
+          "targetPitch": 0.35958476573564724,
+          "targetYaw": -179.7183239376759
+        },
+        {
+          "pitch": -8.104877398792551,
+          "yaw": -174.32529357814718,
+          "type": "scene",
+          "text": "Go to Living Room Entry",
+          "sceneId": "scene-1773761780397-8ke505pmq",
+          "targetPitch": 2.0582122750538256,
+          "targetYaw": -179.12234812601446
+        }
+      ]
+    },
+    "scene-1773761790237-6wmj8t8k1": {
+      "title": "Tv Room",
+      "panorama": "images/scene-1773761790237-6wmj8t8k1.jpg",
+      "thumbnail": "thumbnails/scene-1773761790237-6wmj8t8k1.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -24.354359066930247,
+          "yaw": -62.806181370397326,
+          "type": "scene",
+          "text": "Go to Jack and Jill Entry",
+          "sceneId": "scene-1773761793096-0d3elsbf3",
+          "targetPitch": -2.989007499360122,
+          "targetYaw": -61.23469457565233
+        },
+        {
+          "pitch": -26.49803537935853,
+          "yaw": -118.89515388631614,
+          "type": "scene",
+          "text": "Go to Top of Stairs",
+          "sceneId": "scene-1773761797401-qvfdyzxv4",
+          "targetPitch": -5.956865199527509,
+          "targetYaw": -121.20617922792098
+        },
+        {
+          "pitch": -16.076191854052166,
+          "yaw": 148.00843936418212,
+          "type": "scene",
+          "text": "Go to Bedroom 1 Entry",
+          "sceneId": "scene-1773761790867-rfw1j3wzw",
+          "targetPitch": 0,
+          "targetYaw": 0
+        }
+      ]
+    },
+    "scene-1773761790867-rfw1j3wzw": {
+      "title": "Bedroom 1 Entry",
+      "panorama": "images/scene-1773761790867-rfw1j3wzw.jpg",
+      "thumbnail": "thumbnails/scene-1773761790867-rfw1j3wzw.jpg",
+      "pitch": -0.31748251136768424,
+      "yaw": -41.08936289912691,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -23.17712754429314,
+          "yaw": 58.00399257192367,
+          "type": "scene",
+          "text": "Go to Bedroom 1",
+          "sceneId": "scene-1773761791412-sin34k7vh",
+          "targetPitch": -4.659333828455691,
+          "targetYaw": 53.49972571756314
+        },
+        {
+          "pitch": -34.197234292139214,
+          "yaw": 141.96428675830174,
+          "type": "scene",
+          "text": "Go to Bedroom 1 Bathroom 2",
+          "sceneId": "scene-1773761792566-m4ipezeb2",
+          "targetPitch": -7.315019432635561,
+          "targetYaw": 138.69420254063584
+        },
+        {
+          "pitch": -17.349839785396888,
+          "yaw": -44.19017517014789,
+          "type": "scene",
+          "text": "Go to Tv Room",
+          "sceneId": "scene-1773761790237-6wmj8t8k1",
+          "targetPitch": -2.741464157822091,
+          "targetYaw": -45.16340410558172
+        },
+        {
+          "pitch": -13.66703704869691,
+          "yaw": -68.92844559860362,
+          "type": "scene",
+          "text": "Go to Top of Stairs",
+          "sceneId": "scene-1773761797401-qvfdyzxv4",
+          "targetPitch": -1.9025030274646602,
+          "targetYaw": -83.19748090612558
+        },
+        {
+          "pitch": -9.796017950876081,
+          "yaw": -52.335485481201175,
+          "type": "scene",
+          "text": "Go to Jack and Jill Entry",
+          "sceneId": "scene-1773761793096-0d3elsbf3",
+          "targetPitch": 3.6546842867278695,
+          "targetYaw": -57.683525348067974
+        }
+      ]
+    },
+    "scene-1773761791412-sin34k7vh": {
+      "title": "Bedroom 1",
+      "panorama": "images/scene-1773761791412-sin34k7vh.jpg",
+      "thumbnail": "thumbnails/scene-1773761791412-sin34k7vh.jpg",
+      "pitch": -4.659333828455691,
+      "yaw": 53.49972571756314,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -21.487741286301524,
+          "yaw": -96.3645712105733,
+          "type": "scene",
+          "text": "Go to Bedroom 1 Entry",
+          "sceneId": "scene-1773761790867-rfw1j3wzw",
+          "targetPitch": -4.522962393238171,
+          "targetYaw": -100.04557929410475
+        },
+        {
+          "pitch": -29.13902617400724,
+          "yaw": -144.71799185252814,
+          "type": "scene",
+          "text": "Go to Bedroom 1 Bathroom",
+          "sceneId": "scene-1773761792019-0wf7ld6ww",
+          "targetPitch": -7.644674140786549,
+          "targetYaw": -149.4410871364446
+        }
+      ]
+    },
+    "scene-1773761792019-0wf7ld6ww": {
+      "title": "Bedroom 1 Bathroom",
+      "panorama": "images/scene-1773761792019-0wf7ld6ww.jpg",
+      "thumbnail": "thumbnails/scene-1773761792019-0wf7ld6ww.jpg",
+      "pitch": -7.644674140786549,
+      "yaw": -149.4410871364446,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -30.52902256237509,
+          "yaw": 2.0690640926561636,
+          "type": "scene",
+          "text": "Go to Bedroom 1 Bathroom 2",
+          "sceneId": "scene-1773761792566-m4ipezeb2",
+          "targetPitch": -6.969330402715094,
+          "targetYaw": 1.0076865900808798
+        },
+        {
+          "pitch": -32.258620896492,
+          "yaw": 151.0778862184836,
+          "type": "scene",
+          "text": "Go to Bedroom 1",
+          "sceneId": "scene-1773761791412-sin34k7vh",
+          "targetPitch": -1.5313632003338813,
+          "targetYaw": 137.57777117842022
+        }
+      ]
+    },
+    "scene-1773761792566-m4ipezeb2": {
+      "title": "Bedroom 1 Bathroom 2",
+      "panorama": "images/scene-1773761792566-m4ipezeb2.jpg",
+      "thumbnail": "thumbnails/scene-1773761792566-m4ipezeb2.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -38.256710421414624,
+          "yaw": -177.02077777499917,
+          "type": "scene",
+          "text": "Go to Bedroom 1 Bathroom",
+          "sceneId": "scene-1773761792019-0wf7ld6ww",
+          "targetPitch": -11.955323243576418,
+          "targetYaw": 177.3308856314385
+        },
+        {
+          "pitch": -16.55557405214219,
+          "yaw": 176.3775221441928,
+          "type": "scene",
+          "text": "Go to Bedroom 1",
+          "sceneId": "scene-1773761791412-sin34k7vh",
+          "targetPitch": -0.5528382336868143,
+          "targetYaw": 168.92665473660293
+        },
+        {
+          "pitch": -38.33291387459304,
+          "yaw": 100.69048362497024,
+          "type": "scene",
+          "text": "Go to Bedroom 1 Entry",
+          "sceneId": "scene-1773761790867-rfw1j3wzw",
+          "targetPitch": -15.324376819196527,
+          "targetYaw": 93.86276172927592
+        },
+        {
+          "pitch": -13.718557981202686,
+          "yaw": 98.11501232831232,
+          "type": "scene",
+          "text": "Go to Tv Room",
+          "sceneId": "scene-1773761790237-6wmj8t8k1",
+          "targetPitch": -0.4342371439534036,
+          "targetYaw": 91.16855235583625
+        },
+        {
+          "pitch": -8.42200966010858,
+          "yaw": 91.02181784392316,
+          "type": "scene",
+          "text": "Go to Jack and Jill Entry",
+          "sceneId": "scene-1773761793096-0d3elsbf3",
+          "targetPitch": 0.78402927774905,
+          "targetYaw": 84.98613740579242
+        }
+      ]
+    },
+    "scene-1773761793096-0d3elsbf3": {
+      "title": "Jack and Jill Entry",
+      "panorama": "images/scene-1773761793096-0d3elsbf3.jpg",
+      "thumbnail": "thumbnails/scene-1773761793096-0d3elsbf3.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -10.582180520861003,
+          "yaw": -96.38248718316714,
+          "type": "scene",
+          "text": "Go to Bedroom 1 Entry",
+          "sceneId": "scene-1773761790867-rfw1j3wzw",
+          "targetPitch": -1.2352638894623933,
+          "targetYaw": -99.46047095855192
+        },
+        {
+          "pitch": -27.97733913677841,
+          "yaw": -117.94144816500832,
+          "type": "scene",
+          "text": "Go to Tv Room",
+          "sceneId": "scene-1773761790237-6wmj8t8k1",
+          "targetPitch": -7.806271940098947,
+          "targetYaw": -126.13855411618147
+        },
+        {
+          "pitch": -27.211310379727095,
+          "yaw": -64.97343123634988,
+          "type": "scene",
+          "text": "Go to Top of Stairs",
+          "sceneId": "scene-1773761797401-qvfdyzxv4",
+          "targetPitch": -7.910303233188891,
+          "targetYaw": -69.47610451243781
+        },
+        {
+          "pitch": -29.28673243920919,
+          "yaw": 81.88506766000228,
+          "type": "scene",
+          "text": "Go to Bedroom 2",
+          "sceneId": "scene-1773761793644-63hbgp4w5",
+          "targetPitch": -5.966250419110596,
+          "targetYaw": 76.5520194997165
+        },
+        {
+          "pitch": -14.740825848451056,
+          "yaw": 167.4413427709766,
+          "type": "scene",
+          "text": "Go to Bedroom 3",
+          "sceneId": "scene-1773761795475-r2pw11c4h",
+          "targetPitch": -1.8782010181460276,
+          "targetYaw": 160.67419085966708
+        }
+      ]
+    },
+    "scene-1773761793644-63hbgp4w5": {
+      "title": "Bedroom 2",
+      "panorama": "images/scene-1773761793644-63hbgp4w5.jpg",
+      "thumbnail": "thumbnails/scene-1773761793644-63hbgp4w5.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -33.540052529165756,
+          "yaw": 167.739788618135,
+          "type": "scene",
+          "text": "Go to Jack and Jill Bathroom",
+          "sceneId": "scene-1773761794314-ht3wzs3hw",
+          "targetPitch": -6.361460709902538,
+          "targetYaw": 162.57469554646718
+        },
+        {
+          "pitch": -30.762961808659558,
+          "yaw": -81.70131577804455,
+          "type": "scene",
+          "text": "Go to Jack and Jill Entry",
+          "sceneId": "scene-1773761793096-0d3elsbf3",
+          "targetPitch": -4.592921130807414,
+          "targetYaw": -75.36473755197994
+        },
+        {
+          "pitch": -14.527469679196876,
+          "yaw": -81.1914041468383,
+          "type": "scene",
+          "text": "Go to Tv Room",
+          "sceneId": "scene-1773761790237-6wmj8t8k1",
+          "targetPitch": 0.5374044035399925,
+          "targetYaw": -78.57069036005646
+        }
+      ]
+    },
+    "scene-1773761794314-ht3wzs3hw": {
+      "title": "Jack and Jill Bathroom",
+      "panorama": "images/scene-1773761794314-ht3wzs3hw.jpg",
+      "thumbnail": "thumbnails/scene-1773761794314-ht3wzs3hw.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -33.28545797385273,
+          "yaw": -24.472652096097434,
+          "type": "scene",
+          "text": "Go to Bedroom 3",
+          "sceneId": "scene-1773761795475-r2pw11c4h",
+          "targetPitch": -7.417705468778053,
+          "targetYaw": -24.524840102066264
+        },
+        {
+          "pitch": -22.089752380897398,
+          "yaw": -160.84729714083625,
+          "type": "scene",
+          "text": "Go to Bedroom 3",
+          "sceneId": "scene-1773761795475-r2pw11c4h",
+          "targetPitch": -4.215686915093147,
+          "targetYaw": -167.5987343366337
+        }
+      ]
+    },
+    "scene-1773761795475-r2pw11c4h": {
+      "title": "Bedroom 3",
+      "panorama": "images/scene-1773761795475-r2pw11c4h.jpg",
+      "thumbnail": "thumbnails/scene-1773761795475-r2pw11c4h.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -21.546005659289733,
+          "yaw": 89.12259474729929,
+          "type": "scene",
+          "text": "Go to Jack and Jill Bathroom",
+          "sceneId": "scene-1773761794314-ht3wzs3hw",
+          "targetPitch": -0.2841626891304766,
+          "targetYaw": 83.31027293785132
+        },
+        {
+          "pitch": -17.303216540179136,
+          "yaw": 25.827574501664923,
+          "type": "scene",
+          "text": "Go to Jack and Jill Entry",
+          "sceneId": "scene-1773761793096-0d3elsbf3",
+          "targetPitch": 0.8659173516659848,
+          "targetYaw": 24.535568905730656
+        }
+      ]
+    },
+    "scene-1773761797401-qvfdyzxv4": {
+      "title": "Top of Stairs",
+      "panorama": "images/scene-1773761797401-qvfdyzxv4.jpg",
+      "thumbnail": "thumbnails/scene-1773761797401-qvfdyzxv4.jpg",
+      "pitch": -1.9025030274646602,
+      "yaw": -83.19748090612558,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -39.62363500873479,
+          "yaw": -1.7200480417996826,
+          "type": "scene",
+          "text": "Go to Stairs",
+          "sceneId": "scene-1773761779561-hedqply1d",
+          "targetPitch": -27.67572305677966,
+          "targetYaw": -0.4527666048405763
+        },
+        {
+          "pitch": -38.75547243995328,
+          "yaw": 59.21251693754888,
+          "type": "scene",
+          "text": "Go to Bedroom 4",
+          "sceneId": "scene-1773761797956-mhbqdzjoo",
+          "targetPitch": -17.22290323243547,
+          "targetYaw": 61.69433194618705
+        },
+        {
+          "pitch": -26.707630373158448,
+          "yaw": -84.55206638693961,
+          "type": "scene",
+          "text": "Go to Tv Room",
+          "sceneId": "scene-1773761790237-6wmj8t8k1",
+          "targetPitch": -2.1642086115089274,
+          "targetYaw": -88.6123915562689
+        },
+        {
+          "pitch": -27.188545509627577,
+          "yaw": -136.29018313020643,
+          "type": "scene",
+          "text": "Go to Jack and Jill Entry",
+          "sceneId": "scene-1773761793096-0d3elsbf3",
+          "targetPitch": -2.0585820656337592,
+          "targetYaw": -135.85914202012134
+        },
+        {
+          "pitch": -16.17334701152339,
+          "yaw": -24.574704110176842,
+          "type": "scene",
+          "text": "Go to Bedroom 1 Entry",
+          "sceneId": "scene-1773761790867-rfw1j3wzw",
+          "targetPitch": -0.31748251136768424,
+          "targetYaw": -41.08936289912691
+        }
+      ]
+    },
+    "scene-1773761797956-mhbqdzjoo": {
+      "title": "Bedroom 4",
+      "panorama": "images/scene-1773761797956-mhbqdzjoo.jpg",
+      "thumbnail": "thumbnails/scene-1773761797956-mhbqdzjoo.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -42.646840210635965,
+          "yaw": -150.2400542448634,
+          "type": "scene",
+          "text": "Go to Top of Stairs",
+          "sceneId": "scene-1773761797401-qvfdyzxv4",
+          "targetPitch": -18.389645179540043,
+          "targetYaw": -150.63962900775505
+        }
+      ]
+    },
+    "scene-1773763686579-pxzr7qm20": {
+      "title": "Master Bathroom",
+      "panorama": "images/scene-1773763686579-pxzr7qm20.jpg",
+      "thumbnail": "thumbnails/scene-1773763686579-pxzr7qm20.jpg",
+      "pitch": 0,
+      "yaw": 0,
+      "hfov": 100,
+      "hotSpots": [
+        {
+          "pitch": -31.23082145273821,
+          "yaw": -14.222118748952271,
+          "type": "scene",
+          "text": "Go to Master Bedroom",
+          "sceneId": "scene-1773761781683-7vw41xm7e",
+          "targetPitch": -7.5550402436458715,
+          "targetYaw": -13.528660857442446
+        },
+        {
+          "pitch": -29.404747263895807,
+          "yaw": -165.44031814144176,
+          "type": "scene",
+          "text": "Go to Master Bathroom 2",
+          "sceneId": "scene-1773761782862-cvh1v1985",
+          "targetPitch": -6.746275198119684,
+          "targetYaw": -167.86822688672908
+        }
+      ]
+    }
+  }
+}
